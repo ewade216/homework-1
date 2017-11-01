@@ -1,0 +1,102 @@
+
+
+
+body {
+
+	background-color: beige;
+	margin: auto;
+
+}
+
+h1 {
+
+	color: white;
+	font-size: 25px;
+	letter-spacing: 1px;
+	text-align: center;
+	background-color: black;
+	padding: 13px;
+	margin: 0px 0px; 
+
+}
+
+
+h2 {
+
+	padding-top: 10px;
+	padding-bottom: 0px;
+	margin-top: 0px; 
+	margin: 10px 0;
+	text-align: left;
+	font-size: 21px;
+	letter-spacing: .75px;
+	background-color: beige;
+	color: black;
+	width: 100%;
+
+}
+
+section {
+
+	padding-left: 40px;
+	line-height: 20px;
+
+}
+
+ul {
+
+	margin-top: auto;
+	line-height: 22px;
+
+}
+
+
+.bio {
+
+	float: left;
+	margin-right: 22px;
+	margin-left: 22px;
+	width: 60%;
+
+}
+
+.bio-img {
+
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-right: 25px;
+
+
+}
+
+
+.contact {
+
+	margin-top: 10px;
+
+}
+
+
+#container {
+
+	margin: 10px auto;
+	width: 720px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
